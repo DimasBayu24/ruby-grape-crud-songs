@@ -1,5 +1,18 @@
 # README
 
+## How to start
+```
+bundle install
+```
+```
+rails s
+```
+
+## How to check available routes
+```
+rails grape:routes
+```
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
